@@ -14,7 +14,8 @@ Authors: Heming Xu, Xintong Liu, Hanwen Zhang, Xiaohe Wu*
 [[**Code**]](https://github.com/hmx-harry/SHAL-Net)
 
 ## Requirements
-- Python 3.8
+- python 3.8
+- pytorch >= 1.12.0
 - CPU or NVIDIA GPU
 
 ## 🔧 Setup
