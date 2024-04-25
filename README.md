@@ -50,5 +50,13 @@ python train.py
 ## 📌 Citation
 If you think our work is useful for your research, please cite our paper by the following:
 ```bibtex
-
+@article{xu2024degraded,
+  title={Degraded Structure and Hue Guided Auxiliary Learning for low-light image enhancement},
+  author={Xu, Heming and Liu, Xintong and Zhang, Hanwen and Wu, Xiaohe and Zuo, Wangmeng},
+  journal={Knowledge-Based Systems},
+  pages={111779},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
+
