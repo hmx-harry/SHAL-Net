@@ -5,7 +5,7 @@
 
 The official pytorch implementation of SHAL-Net: Degraded Structure and Hue Guided Auxiliary Learning for Low-Light Image Enhancement.
 
-Authors: Heming Xu, Xintong Liu, Hanwen Zhang, Xiaohe Wu* 
+Authors: Heming Xu, Xintong Liu, Hanwen Zhang, Xiaohe Wu*, Wangmeng Zuo 
 
 ## Overview
 ![cotent](imgs/network.jpeg)
